@@ -1,0 +1,85 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(136, 212, 243);
+
+}
+
+.pinky,a{
+    display: block;
+    
+}
+
+#cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+form{
+    background-color: rgb(250, 2, 68);
+    width: 20%;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+
+form h2{
+
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+form label{
+    
+    color: rgb(242, 242, 244);
+    font-size: 15px;
+}
+
+form .i2{
+    width: 87%;
+    height: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+form a{
+    color: white;
+    font-size: 15px;
+}
+
+form #btn{
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    width: 30%;
+    height: 26px;
+    border: none;
+    background-color: greenyellow;
+    color: white;
+}
+
+#b2{
+    background-color: blue;
+}
+
+form a{
+    text-decoration: none;
+    color: white;
+}
+
+.fa-user{
+    position: absolute;
+    top: 60%;
+    left: 90%;
+    
+}
+
+#user{
+    position: relative;
+}
